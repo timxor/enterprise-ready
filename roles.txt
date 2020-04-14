@@ -1,0 +1,13 @@
+# roles.txt
+
+- account -> role
+- access control
+- separation of privileges by user role
+
+- defaults:
+    - super admins
+    - billing admins
+    - users
+    - reporting users
+    - feature only users
+
